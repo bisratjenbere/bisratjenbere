@@ -417,25 +417,25 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bisratjenbere&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bisratjenbere&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 <br/><br/>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bisratjenbere&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=bisratjenbere&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true"
     height="170"
   />
 
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bisratjenbere&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisratjenbere&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true"
     height="170"
   />
 </p>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bisratjenbere&theme=github-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bisratjenbere&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" />
 
 </div>
 
