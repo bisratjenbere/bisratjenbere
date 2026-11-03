@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2740,100:0d1117&height=200&section=header&text=Bisrat%20Jenbere&fontSize=52&fontColor=58A6FF&fontAlignY=44&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20System%20Builder&descSize=15&descAlignY=66&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=200&section=header&text=Bisrat%20Jenbere&fontSize=52&fontColor=58A6FF&fontAlignY=44&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Odoo%20ERP%20Specialist&descSize=15&descAlignY=66&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -26,17 +26,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bisratjenbere&style=flat-square&color=58a6ff&label=Profile+Views)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-58A6FF?style=flat-square)&nbsp;
-![Location](https://img.shields.io/badge/📍-Addis%20Ababa%2C%20Ethiopia-1a2740?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Addis%20Ababa%2C%20Ethiopia-161B22?style=flat-square)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     IDENTITY
-════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-## `$ whoami`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> `$ whoami`
+
+</div>
 
 ```yaml
 name        : Bisrat Jenbere
@@ -49,46 +49,179 @@ philosophy  : "Turning messy business processes into clean, working software."
 open_to     : Senior/Lead roles · Complex enterprise systems · Impactful solutions
 ```
 
-Software Engineer at **ALTA Computec PLC** building document automation and e-invoicing systems for Ethiopian businesses. I specialize in **Odoo ERP customization**, **Next.js/React** frontends, and **Python** backend services — with production experience deploying systems that process thousands of documents and transactions monthly.
+<div align="center">
 
-**Key achievements:**
-- Built OmniScan: AI document scanner processing 10,000+ coffee export documents monthly with 95% accuracy
-- Developed Odoo e-invoicing module achieving 100% Ethiopian tax compliance for 12+ businesses
-- Shipped House Rent & Sale platform: 200+ users, 50+ active property listings, deployed on Vercel
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technical depth:** Modern full-stack development (TypeScript, Next.js 16, React), enterprise ERP integration (Odoo/Python), document intelligence (OCR, field extraction), and cloud deployment (Docker, Vercel, PostgreSQL/MongoDB).
+#### 🎯 Current Mission
+Software Engineer at **ALTA Computec PLC** building document automation and e-invoicing systems for Ethiopian businesses.
+
+**Specialized in:**
+- 🔧 Odoo ERP customization
+- 🤖 Document intelligence systems
+- ⚡ Next.js/React frontends
+- 🐍 Python backend services
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏆 Key Achievements
+- Built **OmniScan**: 10,000+ docs/month, 95% accuracy
+- **E-invoicing module**: 5,000+ invoices/month, 100% compliance
+- **House Rent & Sale**: 200+ users, 50+ listings
+- Production systems processing **thousands** of transactions monthly
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     LIVE PROJECTS
-════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-## `$ ls ./live-products`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" height="30" /> `$ ls ./live-products`
 
-> Production applications — deployed, tested, and solving real problems.
+**Production Applications — Deployed, Tested, Solving Real Problems**
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ENTERPRISE PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h3>🏢 Enterprise Systems (ALTA Computec PLC)</h3></summary>
+
+<br/>
+
+<div align="center">
+
+```diff
+@@  Proprietary Enterprise Software  @@
+```
+
+</div>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50"/>
+</td>
+<td>
+
+### 🤖 OmniScan — AI-Powered Document Intelligence
+**Built for:** ALTA Computec PLC
+
+> 📊 **Impact:** 10,000+ documents/month | 95% accuracy | 40 hours/week saved
+
+An AI-backed document scanning and field extraction system built specifically for coffee export companies. Reduces manual data entry time from **2 hours to 10 minutes** per batch.
+
+**Tech Stack:**
+```
+Python  •  AI/ML  •  OCR  •  FastAPI  •  Document Processing  •  Field Extraction  •  PDF Generation
+```
+
+<details>
+<summary>📋 Key Features</summary>
+
+- ✅ Intelligent OCR with ML-based field detection
+- ✅ Automated document generation
+- ✅ Export-ready templates
+- ✅ Quality certificates processing
+- ✅ Shipping manifests automation
+- ✅ Customs declarations handling
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Receipt.png" width="50"/>
+</td>
+<td>
+
+### 📄 Electronic Invoicing — Odoo ERP Integration
+**Built for:** ALTA Computec PLC
+
+> 📊 **Impact:** 5,000+ invoices/month | 12 businesses | 100% tax compliance
+
+Custom Odoo module integrating electronic invoicing directly into enterprise ERP workflows. Automated tax authority submission for Ethiopian businesses.
+
+**Tech Stack:**
+```
+Python  •  Odoo ERP  •  XML/UBL  •  Digital Signatures  •  Tax Compliance  •  API Integration  •  PostgreSQL
+```
+
+<details>
+<summary>📋 Key Features</summary>
+
+- ✅ Real-time invoice validation
+- ✅ Digital signature integration
+- ✅ Automated tax authority submission
+- ✅ Multi-format support (UBL, XML)
+- ✅ Comprehensive audit trails
+- ✅ 75% reduction in processing time
+
+</details>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PUBLIC PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><h3>🚀 Public Projects & SaaS Platforms</h3></summary>
 
 <br/>
 
 <table>
 <tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/document.png" width="44"/>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" width="50"/>
 </td>
 <td>
 
-### 🤖 OmniScan — AI-Powered Document Intelligence
-**Built for:** ALTA Computec PLC (Proprietary Enterprise Software)
+### 🏠 [House Rent & Sale — Real Estate Platform](https://house-rent-sale-puce.vercel.app) ⭐
+> 📊 **Live:** 200+ users | 50+ active listings | Full-stack marketplace
 
-> *Intelligent document processing for coffee export operations*
+A production real estate platform for listing, searching, and managing properties. **Currently live and processing real transactions.**
 
-An AI-backed document scanning and field extraction system built specifically for coffee export companies. **Processes 10,000+ documents monthly** with **95% field extraction accuracy**, reducing manual data entry time from 2 hours per batch to under 10 minutes.
+**Tech Stack:**
+```
+Next.js 16  •  TypeScript  •  MongoDB  •  NextAuth  •  Cloudinary  •  Leaflet  •  Upstash Redis  •  shadcn/ui
+```
 
-Features intelligent OCR, machine learning-based field detection, automated document generation, and export-ready templates. Handles complex coffee export documentation including quality certificates, shipping manifests, and customs declarations.
+<details>
+<summary>📋 Live Features</summary>
 
-**Impact:** Saves 40+ hours/week of manual data entry for export operations teams across 3 coffee export companies.
+- ✅ User authentication with NextAuth
+- ✅ Property listing CRUD operations
+- ✅ Advanced search with filters
+- ✅ Interactive property maps (Leaflet/OpenStreetMap)
+- ✅ Real-time messaging system
+- ✅ Image uploads via Cloudinary
+- ✅ Email notifications (Resend)
+- ✅ Rate limiting (Upstash Redis)
+- ✅ Comprehensive admin panel
 
-`Python` `AI/ML` `OCR` `FastAPI` `Document Processing` `Field Extraction` `PDF Generation`
+</details>
+
+**[🔗 View Live Demo](https://house-rent-sale-puce.vercel.app)**
 
 </td>
 </tr>
@@ -96,69 +229,32 @@ Features intelligent OCR, machine learning-based field detection, automated docu
 
 <table>
 <tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/receipt.png" width="44"/>
-</td>
-<td>
-
-### 📄 Electronic Invoicing — Odoo ERP Integration
-**Built for:** ALTA Computec PLC (Proprietary Enterprise Software)
-
-> *Seamless e-invoicing compliance and automation module*
-
-A custom Odoo module integrating electronic invoicing capabilities directly into enterprise ERP workflows. **Currently processing 5,000+ invoices monthly for 12 Ethiopian businesses** with **100% tax authority compliance**.
-
-Enables businesses to generate, validate, and transmit legally compliant e-invoices automatically — meeting Ethiopian Revenue Authority requirements while eliminating manual invoice processing bottlenecks.
-
-Features real-time invoice validation, digital signature integration, automated tax authority submission, multi-format support (UBL, XML), and comprehensive audit trails.
-
-**Impact:** Reduced invoice processing time by 75%, eliminated compliance errors, automated tax submissions for mid-size enterprises.
-
-`Python` `Odoo ERP` `XML/UBL` `Digital Signatures` `Tax Compliance` `API Integration` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/shopping-cart.png" width="44"/>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="50"/>
 </td>
 <td>
 
 ### 🛍️ [EthioStore — Modern E-Commerce Platform](https://github.com/bisratjenbere/ethiostore)
-> *Full-featured online shopping platform for Ethiopian businesses*
+> 📊 Full-featured online shopping platform for Ethiopian businesses
 
-A complete e-commerce solution designed for Ethiopian market needs. Built with modern web technologies providing seamless shopping experiences with payment integration, inventory management, and real-time order tracking.
+Complete e-commerce solution with payment integration, inventory management, and real-time order tracking.
 
-**Features:** Product catalogs, shopping cart, checkout flow with Stripe payment integration, admin dashboard for inventory management, customer management system, and order fulfillment tracking.
+**Tech Stack:**
+```
+Next.js  •  TypeScript  •  Tailwind CSS  •  Prisma  •  Stripe  •  PostgreSQL
+```
 
-**Stack optimized for performance:** Next.js for server-side rendering, Prisma ORM for type-safe database queries, PostgreSQL for data persistence, Stripe for payment processing.
+<details>
+<summary>📋 Features</summary>
 
-`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `Stripe` `PostgreSQL`
+- ✅ Product catalogs & shopping cart
+- ✅ Stripe payment integration
+- ✅ Admin dashboard for inventory
+- ✅ Customer management system
+- ✅ Order fulfillment tracking
+- ✅ Server-side rendering for performance
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/home.png" width="44"/>
-</td>
-<td>
-
-### 🏠 [House Rent & Sale — Real Estate Platform](https://house-rent-sale-puce.vercel.app) ⭐ **LIVE**
-> *Full-stack property marketplace with 200+ registered users*
-
-A production real estate platform for listing, searching, and managing properties. **Currently hosting 50+ active property listings** with advanced search filters, interactive maps, real-time messaging, and complete property management workflows.
-
-**Live features:** User authentication with NextAuth, property listing CRUD operations, image uploads via Cloudinary, email notifications with Resend, interactive property maps using Leaflet/OpenStreetMap, rate limiting with Upstash Redis, and comprehensive admin panel.
-
-**Tech highlights:** Built with Next.js 16 App Router, TypeScript for type safety, MongoDB for flexible data modeling, shadcn/ui for consistent design system.
-
-`Next.js 16` `TypeScript` `MongoDB` `NextAuth` `Cloudinary` `Leaflet` `Upstash Redis` `shadcn/ui`
+</details>
 
 </td>
 </tr>
@@ -166,19 +262,33 @@ A production real estate platform for listing, searching, and managing propertie
 
 <table>
 <tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/qr-code.png" width="44"/>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bento%20Box.png" width="50"/>
 </td>
 <td>
 
 ### 📱 [QR Menu SaaS — Digital Restaurant Solution](https://github.com/bisratjenbere/qrmenu-saas)
-> *Multi-tenant SaaS for contactless restaurant menus*
+> 📊 Multi-tenant SaaS for contactless restaurant menus
 
-A QR-based menu system enabling restaurants to digitize their menus. Customers scan and browse directly from their phones — no app installation required. Features real-time menu updates, order management interface, and analytics dashboard for restaurant owners.
+QR-based menu system enabling restaurants to digitize their menus. Customers scan and browse directly from their phones.
 
-**Architecture:** Built with Turborepo monorepo structure for code sharing, Docker containerization for consistent deployments, Traefik for routing and load balancing, Next.js for frontend, PostgreSQL for multi-tenant data isolation.
+**Tech Stack:**
+```
+TypeScript  •  Turborepo  •  Docker  •  Traefik  •  Next.js  •  PostgreSQL
+```
 
-`TypeScript` `Turborepo` `Docker` `Traefik` `Next.js` `PostgreSQL`
+<details>
+<summary>📋 Architecture</summary>
+
+- ✅ Turborepo monorepo structure
+- ✅ Docker containerization
+- ✅ Traefik routing & load balancing
+- ✅ Multi-tenant data isolation
+- ✅ Real-time menu updates
+- ✅ Order management interface
+- ✅ Analytics dashboard
+
+</details>
 
 </td>
 </tr>
@@ -186,63 +296,68 @@ A QR-based menu system enabling restaurants to digitize their menus. Customers s
 
 <table>
 <tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/code.png" width="44"/>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" width="50"/>
+</td>
+<td>
+
+### 💱 [Exchange Rate System — Currency Platform](https://github.com/bisratjenbere/Exchange_Rate_System)
+> 📊 Automated currency exchange tracking and conversion
+
+Python-based system for tracking real-time exchange rates, performing currency conversions, and monitoring rate fluctuations.
+
+**Tech Stack:**
+```
+Python  •  FastAPI  •  PostgreSQL  •  Data Pipelines  •  REST APIs  •  Scheduled Tasks
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="50"/>
+</td>
+<td>
+
+### 📊 [Performance Appraisal System](https://github.com/bisratjenbere/Evalution_System)
+> 📊 Full-stack performance management platform
+
+Performance appraisal platform for managing employee evaluations, feedback cycles, and goal tracking with role-based access control.
+
+**Tech Stack:**
+```
+Node.js  •  Express  •  MongoDB  •  React  •  Vite  •  JWT  •  bcrypt
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50"/>
 </td>
 <td>
 
 ### 💼 [Personal Portfolio — Developer Showcase](https://github.com/bisratjenbere/PersonalPortfolio)
-> *Interactive portfolio highlighting projects, skills, and experience*
+> 📊 Interactive portfolio highlighting projects and skills
 
-A modern, responsive portfolio website built with React to showcase my work as a full-stack developer. Features project galleries, skills visualization, contact forms, and smooth animations for an engaging user experience.
+Modern, responsive portfolio website built with React. Features project galleries, skills visualization, and smooth animations.
 
-Includes Docker support for easy deployment, GitHub data fetcher for live repo stats, and responsive design optimized for all devices.
-
-`React` `JavaScript` `Docker` `Responsive Design`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/currency-exchange.png" width="44"/>
-</td>
-<td>
-
-### 💱 [Exchange Rate System — Real-Time Currency Platform](https://github.com/bisratjenbere/Exchange_Rate_System)
-> *Automated currency exchange tracking and conversion system*
-
-A Python-based system for tracking real-time exchange rates, performing currency conversions, and monitoring rate fluctuations. Features automated data pipelines, historical rate tracking, and API integration with multiple exchange rate providers.
-
-Includes alert mechanisms for significant rate changes and provides RESTful APIs for integration with financial applications. Built for reliability with scheduled tasks and error handling.
-
-`Python` `FastAPI` `PostgreSQL` `Data Pipelines` `REST APIs` `Scheduled Tasks`
+**Tech Stack:**
+```
+React  •  JavaScript  •  Docker  •  Responsive Design
+```
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="72" align="center">
-  <img src="https://img.icons8.com/fluency/48/performance.png" width="44"/>
-</td>
-<td>
-
-### 📊 [Performance Appraisal System — Employee Evaluation Platform](https://github.com/bisratjenbere/Evalution_System)
-> *Full-stack performance management and review system*
-
-A performance appraisal platform for managing employee evaluations, feedback cycles, and goal tracking. Features role-based access control, peer reviews, manager feedback, self-assessments, and customizable appraisal templates.
-
-**Backend:** Node.js/Express providing RESTful APIs with JWT authentication and bcrypt password hashing. **Frontend:** React with Vite for fast development, providing intuitive interface for HR teams and employees. Includes automated reminder systems and performance analytics dashboards.
-
-`Node.js` `Express` `MongoDB` `React` `Vite` `JWT` `bcrypt`
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -250,9 +365,13 @@ A performance appraisal platform for managing employee evaluations, feedback cyc
      ARCHITECTURE / CONCEPT PROJECTS
 ════════════════════════════════════════════════════════════════ -->
 
-## `$ ls ./architecture-work`
+<div align="center">
 
-> Enterprise-grade systems and full-stack applications — designed with scale in mind.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> `$ ls ./architecture-work`
+
+**Enterprise-Grade Systems — Designed with Scale in Mind**
+
+</div>
 
 <br/>
 
@@ -314,7 +433,11 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
      TECH STACK
 ════════════════════════════════════════════════════════════════ -->
 
-## `$ cat stack.json`
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> `$ cat stack.json`
+
+</div>
 
 <div align="center">
 
@@ -371,7 +494,11 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
      CAREER TIMELINE
 ════════════════════════════════════════════════════════════════ -->
 
-## `$ git log --career --oneline`
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> `$ git log --career --oneline`
+
+</div>
 
 ```
 ◆ 2022  GitHub Journey Begins
@@ -413,11 +540,13 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
      GITHUB STATS
 ════════════════════════════════════════════════════════════════ -->
 
-## `$ gh stats --user bisratjenbere`
-
 <div align="center">
 
-### 📊 GitHub Statistics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> `$ gh stats --user bisratjenbere`
+
+</div>
+
+<div align="center">
 
 <table>
   <tr>
@@ -446,7 +575,11 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
      CURRENT FOCUS
 ════════════════════════════════════════════════════════════════ -->
 
-## `$ ps aux --current-work`
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" height="30" /> `$ ps aux --current-work`
+
+</div>
 
 ```json
 {
@@ -471,10 +604,6 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
 
 <br/>
 
-**Open to collaboration on challenging projects and meaningful solutions.**
-
-<br/>
-
 [![View Repositories](https://img.shields.io/badge/View_All_Repositories-58A6FF?style=for-the-badge&logoColor=black)](https://github.com/bisratjenbere?tab=repositories)
 &nbsp;
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrat-jenbere-34a6a928a)
@@ -483,6 +612,6 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2740,100:0d1117&height=140&section=footer&text=Building%20Ethiopia%27s%20Digital%20Future&fontSize=22&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=140&section=footer&text=Building%20Ethiopia%27s%20Digital%20Future&fontSize=22&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" />
 
 </div>
