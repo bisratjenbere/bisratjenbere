@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://bisratjenbere.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/bisratjenbere/personal-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bisrat-jenbere-34a6a928a)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jenberehenok@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/bisratjenbere)
@@ -605,9 +605,11 @@ Includes employer dashboards, job seeker profiles, application workflows, and se
 
 <br/>
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bisratjenbere.vercel.app)
+[![View Portfolio](https://img.shields.io/badge/Portfolio_Code-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bisratjenbere/personal-portfolio)
 &nbsp;
-[![View Repositories](https://img.shields.io/badge/View_Repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bisratjenbere?tab=repositories)
+[![View Live Site](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bisratjenbere.vercel.app)
+&nbsp;
+[![View Repositories](https://img.shields.io/badge/All_Repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bisratjenbere?tab=repositories)
 &nbsp;
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrat-jenbere-34a6a928a)
 &nbsp;
