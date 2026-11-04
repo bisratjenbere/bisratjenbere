@@ -344,10 +344,12 @@ Node.js  •  Express  •  MongoDB  •  React  •  Vite  •  JWT  •  bcryp
 </td>
 <td>
 
-### 💼 [Personal Portfolio — Developer Showcase](https://github.com/bisratjenbere/PersonalPortfolio)
+### 💼 [Personal Portfolio — Developer Showcase](https://github.com/bisratjenbere/personal-portfolio)
 > 📊 Interactive portfolio highlighting projects and skills
 
 Modern, responsive portfolio website built with React. Features project galleries, skills visualization, and smooth animations.
+
+**Live Demo:** [bisratjenbere.vercel.app](https://bisratjenbere.vercel.app)
 
 **Tech Stack:**
 ```
